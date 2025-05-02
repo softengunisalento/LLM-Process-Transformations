@@ -1,0 +1,8 @@
+Make the following BPMN process description more sustainable: "If goods shall be shipped, the secretary clarifies who will do the shipping. If you have large
+amounts, special shipping will be necessary. In these cases the secretary invites three logistic
+companies to make offers and she selects one of them. In case of small amounts, normal
+post shipment is used. Therefore a package label is written by the secretary and a parcel
+insurance taken by the logistics department head if necessary.
+In the meantime the goods can be already packaged by the warehousemen.
+If everything is ready, the packaged goods are prepared for being picked up by the logistic
+company.". In the output BPMN process description, I need you to: reduce the carbon footprint (for example, using electric or low-emission vehicles for the shipping), reduce high energy use, recycle waste materials, use renewable energy sources and avoid production waste. Furthermore, I need you to digitalize the actions of the output process description (for example, send a document by email instead of hand-delivering it) and to focus on green software. Use a high-detailed level output. The output format has to be similar to the input I gave you, which means that it has to be plain text, without any bold character and without lists. All these constraints should not make the output less detailed.

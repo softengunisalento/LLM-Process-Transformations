@@ -1,0 +1,13 @@
+Here's a more sustainable version of the BPMN process description, incorporating green practices and digitalization:
+
+The sales clerks in a bank use energy-efficient thin client computers with cloud-based software to request credit-scoring for a customer. This initiates a process in the bank's eco-friendly data center, which communicates with the scoring agency through a secure, low-energy network.
+
+The process sends a digital scoring request to the agency immediately upon initiation. The agency's green AI system performs a quick, energy-efficient level 1 scoring. This often produces an immediate result, which is transmitted back to the bank's system within seconds via a low-power, high-speed network. The banking process then displays the result on the clerk's energy-efficient monitor, which uses auto-brightness adjustment to minimize power consumption.
+
+In cases where the scoring cannot be determined immediately, the agency's system informs the banking process of the delay through an automated notification. It then initiates the level 2 scoring using distributed computing to optimize energy use. This process can take up to a couple of minutes but uses idle computing resources to minimize additional energy consumption. Once the scoring result is determined, the information is sent back to the banking process through the same low-energy network.
+
+The banking system, running on servers optimized for energy efficiency and cooled by renewable energy-powered systems, notifies the clerk of the delay via a pop-up message on their screen. The system uses intelligent power management to reduce energy consumption during wait times. As soon as the result arrives, it is immediately displayed on the clerk's screen, which uses e-ink technology to further reduce power usage when displaying static information.
+
+Throughout this process, all data centers involved use renewable energy sources such as solar or wind power. The software is designed following green coding practices, minimizing unnecessary computations and optimizing database queries to reduce processing power. Data storage utilizes energy-efficient solid-state drives, and old hardware is responsibly recycled through certified e-waste management programs.
+
+The entire process is paperless, eliminating the need for physical document production and transportation. Regular energy audits are conducted on the system to identify and implement further energy-saving opportunities. Additionally, the bank and agency continuously update their software and hardware to more energy-efficient versions, ensuring the long-term sustainability of the credit-scoring process.

@@ -1,0 +1,13 @@
+A guest enters the restaurant when feeling hungry and is greeted by a digital menu displayed on a tablet or screen, showcasing dishes made from locally sourced, seasonal ingredients. The guest selects a dish from the changing meal range while being informed about the sustainable practices of the restaurant, such as zero waste and composting initiatives. After making their selection, the guest waits in a designated area that encourages social distancing and minimizes crowding.
+
+When it's their turn, the guest places their order through the digital menu interface, which sends the order directly to the employee via a connected system. The employee confirms the order and processes payment through a cashless system, encouraging contactless transactions to reduce physical interaction. The payment system is designed to use renewable energy sources for its operations.
+
+After payment, the employee sets up a digital notification system that alerts the guest via their smartphone or a designated app when their meal is ready, eliminating the need for physical buzzers. This system also provides information about the meal's ingredients and origin, promoting transparency and sustainability.
+
+The employee informs the chef of the new meal order through a digital communication platform that reduces paper usage. The chef prepares the meal using energy-efficient kitchen appliances powered by renewable energy sources. Once the meal is ready, it is placed in an insulated service hatch designed to keep food warm without excessive energy use. The chef then digitally notifies the employee that the finished meal is ready for collection.
+
+As soon as the employee receives notification of the completed meal, they send a push notification to the guest’s smartphone or app, indicating that their meal is ready for collection. This ensures that guests can pick up their meals promptly without waiting unnecessarily.
+
+When the guest arrives at the service hatch, they present their order confirmation digitally on their device. The employee hands over the meal while ensuring minimal contact. Should a guest not respond to the notification within 5 minutes, the system automatically sends a reminder alert to their device instead of requiring an employee to call out multiple times.
+
+To further enhance sustainability, any food waste generated during meal preparation is composted or recycled appropriately. The restaurant also implements a robust recycling program for packaging materials and encourages guests to bring reusable containers for takeout orders. By integrating these sustainable practices into each step of the process, the restaurant significantly reduces its carbon footprint while promoting an eco-friendly dining experience.

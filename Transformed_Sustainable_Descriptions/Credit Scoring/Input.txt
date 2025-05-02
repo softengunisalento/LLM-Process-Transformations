@@ -1,0 +1,15 @@
+Make the following BPMN process description more sustainable: "The sales clerks in a bank can use their software frontend to receive the credit-
+scoring for a certain customer. This starts a process in the banking system which
+communicates with the agency in the background.
+This process sends a scoring request to the agency right after the beginning.
+Then, the Agency does a first quick scoring (level 1). This will often lead to an
+immediate result which is then returned directly to the banking system within
+seconds. The banking process presents the result to the clerk sitting at the
+frontend.
+Sometimes the scoring cannot be determined immediately and takes longer. In
+this case the agency informs the banking process of the delay and then starts the
+level 2 scoring (which can take up to a couple of minutes). After the scoring
+result is determined, the information is sent back to the banking process. The
+banking process displays a message to the clerk when he receives information
+about the delay to check again later. As soon as the result arrives, it can be seen
+at the frontend.". In the output BPMN process description, I need you to: reduce the carbon footprint (for example, using electric or low-emission vehicles for the shipping), reduce high energy use, recycle waste materials, use renewable energy sources and avoid production waste. Furthermore, I need you to digitalize the actions of the output process description (for example, send a document by email instead of hand-delivering it) and to focus on green software. Use a high-detailed level output. The output format has to be similar to the input I gave you, which means that it has to be plain text, without any bold character and without lists.

@@ -1,0 +1,11 @@
+A guest enters the sustainably designed restaurant when feeling hungry. He explores a digital menu displayed on a tablet or through a mobile app, showcasing a seasonal meal range that emphasizes locally sourced, organic ingredients to minimize carbon footprint. The guest places his order digitally through the app, eliminating the need for paper menus and reducing energy use. Upon confirming his order, the guest selects a contactless payment option through the app to complete the transaction, further minimizing physical interactions.
+
+Once the order is placed, the system generates a digital notification that alerts the kitchen staff of the new meal order. The chef, using energy-efficient appliances powered by renewable energy sources, prepares the meal while minimizing waste through pre-measured ingredients and on-demand cooking practices. Any organic waste generated during meal preparation is collected in designated recycling bins for composting.
+
+When the meal is ready, the chef places it in a reusable, insulated container within the service hatch. The system automatically sends a mobile notification to the guest’s device, letting them know their meal is ready for pickup, eliminating the need for buzzers and reducing unnecessary energy use. 
+
+If the guest does not respond within a predetermined time, the app sends a gentle reminder notification to the guest’s device rather than having the employee call out repeatedly, ensuring effective communication without disturbing others in the restaurant.
+
+Upon arrival at the service hatch, the guest is greeted by the employee, who assists them in retrieving their meal from the reusable container, reinforcing the principle of minimizing single-use packaging. Any packaging or disposable items are compostable or recyclable, following the restaurant's commitment to sustainability. 
+
+Throughout the entire process, the restaurant actively monitors its energy consumption and waste production, using green software solutions to track sustainability metrics and continuously improve their practices, ensuring that the dining experience is not only enjoyable but also environmentally responsible.

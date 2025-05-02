@@ -1,0 +1,13 @@
+Here's a more sustainable version of the BPMN process description, incorporating energy efficiency, digitalization, and green software practices:
+
+The sales clerks in a bank access a cloud-based, energy-efficient software frontend to request credit-scoring for a customer. This initiates a process in the bank's eco-optimized system, which communicates with the agency through a secure, low-energy data center network.
+
+The process sends a digital scoring request to the agency immediately upon initiation. The agency then performs an initial quick scoring (level 1) using machine learning algorithms optimized for energy efficiency. This often yields an immediate result, which is transmitted back to the banking system within seconds via a low-power, high-speed network. The banking process displays the result to the clerk on an energy-efficient, EPEAT-certified monitor at their workstation.
+
+In cases where the scoring cannot be determined instantly and requires more time, the agency notifies the banking process of the delay through an automated, low-energy notification system. The agency then initiates the level 2 scoring, utilizing distributed computing resources during off-peak hours to minimize energy consumption. This process can take up to a couple of minutes but is optimized to use renewable energy sources when available.
+
+Once the scoring result is determined, the information is securely transmitted back to the banking process using encrypted, compressed data to reduce bandwidth and energy usage. The banking process sends a push notification to the clerk's energy-efficient mobile device, alerting them to check the result later. The frontend application is designed with green coding practices, minimizing CPU usage and optimizing battery life on the clerk's device.
+
+The entire process is paperless, eliminating the need for physical document transportation and reducing carbon emissions. All data centers involved in the process use renewable energy sources where possible and implement advanced cooling systems to minimize energy consumption. The software systems are designed with circular economy principles, ensuring easy updates and longevity to reduce electronic waste.
+
+Additionally, the bank and agency regularly audit their digital processes for energy efficiency, continuously optimizing algorithms and infrastructure to reduce power consumption. They also implement data lifecycle management policies to archive or delete unnecessary data, reducing storage requirements and associated energy costs.
